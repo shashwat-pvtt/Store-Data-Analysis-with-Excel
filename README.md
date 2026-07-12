@@ -102,4 +102,4 @@ Users can filter the dashboard using slicers for dynamic analysis.
 
 LinkedIn: www.linkedin.com/in/shashwats07
 
-GitHub: github.com/shashwat-pvtt
+GitHub: www.github.com/shashwat-pvtt

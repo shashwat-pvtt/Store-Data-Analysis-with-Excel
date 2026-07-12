@@ -81,7 +81,7 @@ Users can filter the dashboard using slicers for dynamic analysis.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
